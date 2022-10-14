@@ -1,0 +1,5 @@
+models\WarningCounterTest.class
+models\BasicCounterTest$Tester.class
+models\LimitedCounterTest.class
+models\BasicCounterTest.class
+models\LimitedCounterTest$Mock.class
